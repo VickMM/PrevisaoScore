@@ -1,2 +1,34 @@
-# PrevisaoScore
-Projeto em Python que utiliza machine learning para prever o score de clientes com base em dados históricos. Inclui tratamento de dados, modelagem, avaliação de desempenho e geração de previsões, mostrando aplicação prática de análise preditiva para apoiar decisões estratégicas.
+Previsão de Score de Clientes 🧠📊
+
+Projeto em Python que utiliza Machine Learning para prever o score de clientes, ajudando na priorização e tomada de decisão estratégica.
+
+🔹 Arquivos
+
+previsao_score.py – Script principal com pré-processamento, modelagem e previsão
+
+clientes_atuais.csv – Dados históricos de clientes
+
+novos_clientes.csv – Dados de novos clientes para previsão
+
+⚙️ Tecnologias
+
+Python, Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn
+
+🚀 Como rodar
+git clone <link-do-repositorio>
+pip install pandas numpy scikit-learn matplotlib seaborn
+python previsao_score.py
+
+O script gera previsões de score para os novos clientes com base no histórico.
+
+💡 Funcionalidades futuras
+
+Métricas avançadas e validação cruzada
+
+Visualizações interativas dos resultados
+
+Automatização de previsões periódicas
+
+📝 Autor
+
+[Victória] – Entusiasta de Dados e Machine Learning
