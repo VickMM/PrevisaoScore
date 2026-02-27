@@ -4,9 +4,9 @@ Projeto em Python que utiliza Machine Learning para prever o score de clientes, 
 
 🔹 Arquivos
 
-previsao_score.py – Script principal com pré-processamento, modelagem e previsão
+inicial.ipynb – Script principal com pré-processamento, modelagem e previsão
 
-clientes_atuais.csv – Dados históricos de clientes
+clientes.csv – Dados históricos de clientes
 
 novos_clientes.csv – Dados de novos clientes para previsão
 
@@ -15,9 +15,9 @@ novos_clientes.csv – Dados de novos clientes para previsão
 Python, Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn
 
 🚀 Como rodar
-git clone <link-do-repositorio>
-pip install pandas numpy scikit-learn matplotlib seaborn
-python previsao_score.py
+git clone <https://github.com/VickMM/PrevisaoScore>
+- pip install pandas numpy scikit-learn matplotlib seaborn
+- python previsao_score.py
 
 O script gera previsões de score para os novos clientes com base no histórico.
 
